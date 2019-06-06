@@ -1,0 +1,28 @@
+_repo: The-Life-of-Charlemagne-Charles-the-Great_59577
+_version: 0.0.1
+contributor:
+  annotator:
+    agent_name: Ketcham, Henry
+    gutenberg_agent_id: '2203'
+    url: http://www.gutenberg.org/2009/agents/2203
+creator:
+  author:
+    agent_name: Hodgkin, Thomas
+    birthdate: 1831
+    deathdate: 1913
+    gutenberg_agent_id: '8136'
+    url: http://www.gutenberg.org/2009/agents/8136
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Hodgkin_(historian)
+description: ''
+gutenberg_issued: '2019-05-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '59577'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Life of Charlemagne (Charles the Great)
+url: http://www.gutenberg.org/ebooks/59577
